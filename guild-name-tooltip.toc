@@ -1,0 +1,6 @@
+## Interface: 100005
+## Title: guild-name-tooltip
+## Author: generic-nickname
+## Version: 1.0.0
+
+main.lua
