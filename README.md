@@ -2,7 +2,6 @@
 
 ## Guild Name Tooltip Addon for World of Warcraft
 
-![Game Version](https://img.shields.io/badge/Game%20Version-9.1.5-brightgreen.svg)
 ![Lua Version](https://img.shields.io/badge/Lua-5.1-blue.svg)
 
 Guild Name Tooltip is a World of Warcraft addon that enhances the in-game player tooltips by displaying the player's guild name when you hover your mouse over them. This simple and lightweight addon provides you with useful information about your fellow players and their guild affiliations.
