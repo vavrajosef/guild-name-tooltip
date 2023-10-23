@@ -15,8 +15,8 @@ Guild Name Tooltip is a World of Warcraft addon that enhances the in-game player
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/guild-name-tooltip/releases) page.
-2. Extract the downloaded ZIP file into your WoW AddOns folder.
+1. Clone this repository
+2. Copy all files into new directory **guild-name-tooltip** in your WoW AddOns folder.
 
 ```
 Interface\AddOns\guild-name-tooltip\
